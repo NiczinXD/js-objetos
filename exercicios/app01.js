@@ -1,5 +1,5 @@
 /*
-Nome      : appnn1.js
+Nome      : app01.js
 Finalidade: JavaScript: conhecendo objetos
 Observação: 01 O que são objetos
 Data      : 01/11/2024
@@ -124,4 +124,7 @@ const livro5 = {
   idadePublicacao: 2020,
   avaliacao: '9/10'
 }
+
+delete livro5.avaliacao
+
 console.log(livro5);
