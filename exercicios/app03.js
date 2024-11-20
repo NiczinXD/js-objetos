@@ -1,7 +1,7 @@
 /*
-Nome      : app02.js
+Nome      : app03.js
 Finalidade: JavaScript: conhecendo objetos
-Observação: 02 Manipulando objetos
+Observação: 03 Percorrendo objetos
 Data      : 06/11/2024
 */
 
