@@ -1,5 +1,5 @@
 /*
-Nome      : app02.js
+Nome      : app04.js
 Finalidade: JavaScript: conhecendo objetos
 Observação: 04 Conhecendo JSON
 Data      : 19/11/2024
