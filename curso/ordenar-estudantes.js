@@ -9,4 +9,4 @@ function ordena(lista, propriedade){
 }
 
 const listaOrdena = ordena(estudantes, 'nome');
-console.log(listaOrdena)
+console.log(listaOrdena);
